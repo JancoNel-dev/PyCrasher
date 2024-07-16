@@ -17,7 +17,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pycrasher.git
+    git clone https://github.com/JancoNel-dev/pycrasher.git
     cd pycrasher
     ```
 2. Ensure you have Python 3.x installed on your system.
