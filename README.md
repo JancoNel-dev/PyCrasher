@@ -29,7 +29,7 @@ You can download an optimized and pre compiled release [here](https://github.com
 2. Ensure you have Python 3.x installed on your system.
 3. Run the main file
     ```bash
-    start.bat
+    python main.py (PID)
     ```
 
 ## Usage
