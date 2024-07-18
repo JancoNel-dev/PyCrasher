@@ -15,15 +15,21 @@
 
 ## Installation
 
+### Method 1
+
+You can download an optimized and pre compiled release [here](https://github.com/JancoNel-dev/PyCrasher/releases/tag/V1)
+
+### Method 2
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/JancoNel-dev/pycrasher.git
     cd pycrasher
     ```
 2. Ensure you have Python 3.x installed on your system.
-3. Install required packages (if any):
+3. Run the main file
     ```bash
-    pip install -r requirements.txt
+    start.bat
     ```
 
 ## Usage
